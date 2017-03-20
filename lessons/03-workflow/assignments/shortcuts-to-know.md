@@ -5,18 +5,18 @@ The following is a list of common shortcut commands. If you don't know these, lo
 
 | Windows Shortcut | What the command does | Mac Shortcut
 |------------------|-----------------------|-------------
-| CTRL+C           | &nbsp;                | &nbsp;
-| CTRL+V           | &nbsp;                | &nbsp;
-| CTRL+X           | &nbsp;                | &nbsp;
-| CTRL+S           | &nbsp;                | &nbsp;
-| CTRL+P           | &nbsp;                | &nbsp;
-| CTRL+A           | &nbsp;                | &nbsp;
-| CTRL+Z           | &nbsp;                | &nbsp;
-| CTRL+Y           | &nbsp;                | &nbsp;
-| **CTRL+F**       | &nbsp;                | &nbsp;
-| ALT+TAB          | &nbsp;                | &nbsp;
-| ALT+F4           | &nbsp;                | &nbsp;
-| F1               | &nbsp;                | &nbsp;
+| CTRL+C           | &nbsp;    copy        | &nbsp; Command-C
+| CTRL+V           | &nbsp;    paste       | &nbsp; Command-V
+| CTRL+X           | &nbsp;    cut         | &nbsp; Command-X
+| CTRL+S           | &nbsp;    save        | &nbsp; Command-S
+| CTRL+P           | &nbsp;    paste       | &nbsp; Command-V
+| CTRL+A           | &nbsp;    all         | &nbsp; Command-A
+| CTRL+Z           | &nbsp;    undo        | &nbsp; Command-Z
+| CTRL+Y           | &nbsp;    redo        | &nbsp; Command-Y
+| **CTRL+F**       | &nbsp;    find        | &nbsp; Command-F
+| ALT+TAB          | &nbsp; 	 switch windows | &nbsp; Shift-Command-Tilde (~)
+| ALT+F4           | &nbsp;    quit program | &nbsp; Command-Q
+| F1               | &nbsp;    help            | &nbsp; Shift–Command–Question mark (?)
 
 
 **When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/shortcuts-answers.md).**
